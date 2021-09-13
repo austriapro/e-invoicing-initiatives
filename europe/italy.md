@@ -2,11 +2,11 @@
 
 ### Legal background
 
-https://www.fatturapa.gov.it/it/norme-e-regole/normativa/
+[Legal background on e-invoicing in Italy](https://www.fatturapa.gov.it/it/norme-e-regole/normativa/)
 
 ### Responsible institution
 
-[Agenzia delle Entrate](https://www.fatturapa.gov.it/it/index.html)
+[Ministry of Finance (Agenzia delle Entrate)](https://www.fatturapa.gov.it/it/index.html)
 
 ### Affected entities (B2B, B2G, B2C)
 
@@ -27,4 +27,4 @@ All files must be digitally signed using CAdES-BES or XAdES-BES before sending.
 
 ### Contact options
 
-https://www.fatturapa.gov.it/it/assistenza/
+[Contact options of the Ministry of Finance](https://www.fatturapa.gov.it/it/assistenza/)
