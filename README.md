@@ -21,8 +21,31 @@ This is an open source initiative and anybody interested can get involved, contr
 
 ### Europe
 
+ * Austria
+ * Belgium
+ * Bulgaria
+ * Croatia
+ * Cyprus
+ * Czechia
+ * Denmark
+ * Estonia
+ * Finland
+ * France
  * [Germany](https://ecosio.github.io/e-invoicing-initiatives/europe/germany)
+ * Greece
+ * Hungary
+ * Ireland
  * [Italy](https://ecosio.github.io/e-invoicing-initiatives/europe/italy)
-
-
+ * Latvia
+ * Lithuania
+ * Luxembourg
+ * Malta
+ * Netherlands
+ * Poland
+ * Portugal
+ * Romania
+ * Slovakia
+ * Slovenia
+ * Spain
+ * Sweden
 
