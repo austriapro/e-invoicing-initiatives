@@ -21,8 +21,8 @@ This is an open source initiative and anybody interested can get involved, contr
 
 ### Europe
 
- * [Germany](http://github.com)
- * [Italy](http://github.com)
+ * [Germany](https://ecosio.github.io/e-invoicing-initiatives/europe/germany)
+ * [Italy](https://ecosio.github.io/e-invoicing-initiatives/europe/italy)
 
 
 
