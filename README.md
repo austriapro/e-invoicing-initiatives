@@ -14,7 +14,7 @@ For each country at least the following details are provided:
 
 ## Get involved!
 
-This is an open source initiative and anybody interested can get involved, contribute new details, open issues, start discussions, etc.
+This is an open source initiative and anybody interested can get involved, contribute new details, open issues, start discussions, etc. Simply [fork the repository](https://github.com/ecosio/e-invoicing-initiatives) and open your first pull request.
 
 
 ## Overview of countries
