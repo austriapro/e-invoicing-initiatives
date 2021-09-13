@@ -1,4 +1,4 @@
-## Welcome to the overview of international E-invoicing initiatives
+## Overview of international E-invoicing initiatives
 
 The goal of this website is to provide an overview of international E-invoicing initiatives and to provide technical details on the used document standards, delivery protocols, signature algorithms, etc. Thereby, it shall help companies, service providers, IT consultants and anybody else interested in electronic invoicing in implementing the various country-specific e-invoice legislations.
 
