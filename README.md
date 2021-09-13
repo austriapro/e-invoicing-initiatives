@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## Welcome to the overview of international E-invoicing initiatives
 
-You can use the [editor on GitHub](https://github.com/ecosio/e-invoicing-initiatives/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+The goal of this website is to provide an overview of international E-invoicing initiatives and to provide technical details on the used document standards, delivery protocols, signature algorithms, etc. Thereby, it shall help companies, service providers, IT consultants and anybody else interested in electronic invoicing in implementing the various country-specific e-invoice legislations.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For each country at least the following details are provided:
 
-### Markdown
+ * Reference to the legal background
+ * Responsible instituation in the given country
+ * Affected entities (B2B, B2G, B2C)
+ * Required e-invoice document standard and link to the documentation
+ * Required transmission standard and link to the documentation
+ * Contact options for implementing parties, if available
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Get involved!
 
-# Header 1
-## Header 2
-### Header 3
+This is an open source initiative and anybody interested can get involved, contribute new details, open issues, start discussions, etc.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Overview of countries
 
-**Bold** and _Italic_ and `Code` text
+### Europe
 
-[Link](url) and ![Image](src)
-```
+ * [Germany](http://github.com)
+ * [Italy](http://github.com)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ecosio/e-invoicing-initiatives/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
