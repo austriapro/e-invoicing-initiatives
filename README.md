@@ -31,11 +31,11 @@ This is an open source initiative and anybody interested can get involved, contr
  * Estonia
  * Finland
  * France
- * [Germany](https://ecosio.github.io/e-invoicing-initiatives/europe/germany)
+ * [Germany](https://austriapro.github.io/e-invoicing-initiatives/europe/germany)
  * Greece
  * Hungary
  * Ireland
- * [Italy](https://ecosio.github.io/e-invoicing-initiatives/europe/italy)
+ * [Italy](https://austriapro.github.io/e-invoicing-initiatives/europe/italy)
  * Latvia
  * Lithuania
  * Luxembourg
