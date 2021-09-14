@@ -5,7 +5,7 @@ The goal of this website is to provide an overview of international E-invoicing 
 For each country at least the following details are provided:
 
  * Reference to the legal background
- * Responsible instituation in the given country
+ * Responsible institution in the given country
  * Affected entities (B2B, B2G, B2C)
  * Required e-invoice document standard and link to the documentation
  * Required transmission standard and link to the documentation
