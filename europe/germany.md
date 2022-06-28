@@ -4,7 +4,7 @@
 
 [Legal background on B2G e-invoicing in Germany](https://www.e-rechnung-bund.de/merksaetze-e-rechnung/)
 
-### Responsible institution
+### Responsible institutions
 
  * [Federal Ministry of Finance](https://www.bundesfinanzministerium.de/)
  * [Federal Ministry of the Interior, Building and Community](https://www.bmi.bund.de)

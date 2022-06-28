@@ -4,7 +4,7 @@
 
 [Legal background on e-invoicing in Italy](https://www.fatturapa.gov.it/it/norme-e-regole/normativa/)
 
-### Responsible institution
+### Responsible institutions
 
 [Ministry of Finance (Agenzia delle Entrate)](https://www.fatturapa.gov.it/it/index.html)
 
